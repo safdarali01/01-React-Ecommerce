@@ -75,7 +75,7 @@ function Products() {
     <div>
       <div className="container">
         {/* Header Section  */}
-        <Heading title="Products" subtitle="Our Products" />
+        <Heading title="Products" subtitle="Explore Our Products" />
         {/* Body Section  */}
         <ProductCards data={ProductsData} />
         <ProductCards data={ProductsData2} />

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Banner = ({ data }) => {
+const Banner2 = ({ data }) => {
   return (
     <div className="min-h-[550px] flex justify-center items-center py-12">
       <div className="container">
@@ -48,7 +48,7 @@ const Banner = ({ data }) => {
             <div>
               <button
                 data-aos="fade-up" data-aos-offset="0"
-                className="bg-white text-primary py-2 px-4 rounded"
+                className="bg-white text-brandGreen py-2 px-4 rounded"
               >
                 Shop Now
               </button>
@@ -60,4 +60,4 @@ const Banner = ({ data }) => {
   );
 };
 
-export default Banner;
+export default Banner2;

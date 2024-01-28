@@ -3,11 +3,6 @@
 
 Welcome to eshop, a responsive and feature-rich React e-commerce website.
 
-
-## Overview
-
-This React app provides a user-friendly interface to generate random passwords based on user preferences.
-
     
 ## Table of Content
 
